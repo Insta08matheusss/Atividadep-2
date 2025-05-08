@@ -10,4 +10,6 @@ n2 = int(input("Digite seu segundo número: "))
 
 soma = numero(n1,n2)
 
+
+
 print(f"Média: {soma}")
