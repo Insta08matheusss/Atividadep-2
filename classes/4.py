@@ -17,7 +17,7 @@ class Pessoa:
 
     def exibir_dados(self):
         print(f"Nome: {self.nome}")
-        print(f"Email: {self.email}")
+        print(f"E-mail: {self.email}")
         print(f"Endereço: {self.endereco.logradouro}, número: {self.endereco.numero}")
 
 

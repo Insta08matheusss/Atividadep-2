@@ -1,0 +1,4 @@
+f{cliente.nome}, {cliente.email},{cliente.telefone}
+f{cliente.nome}, {cliente.email},{cliente.telefone}
+mama, alca,fa
+fa, fa,f
