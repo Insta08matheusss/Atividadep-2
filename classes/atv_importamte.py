@@ -21,12 +21,13 @@ for i in range(QUANTIDADE_CARROS):
         )   
         
     lista_carros.append(carros)
-
-print()
-print(f"Marca: {carros.marca}")
-print(f"Modelo: {carros.modelo}")
-print(f"Categoria: {carros.categoria}")
-print(f"Preço: {carros.preco}")
+    
+    for i in range(1):
+        print()
+        print(f"Marca: {carros.marca}")
+        print(f"Modelo: {carros.modelo}")
+        print(f"Categoria: {carros.categoria}")
+        print(f"Preço: {carros.preco}")
 
 nome_arquivo = "carros.txt"
 
