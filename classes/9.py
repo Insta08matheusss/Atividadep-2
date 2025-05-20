@@ -52,5 +52,5 @@ for i in range(1):
     print()
    
        
-salvar_funcionarios(lista_funcionarios)
+(lista_funcionarios)
 salvar_clientes(lista_clientes)
